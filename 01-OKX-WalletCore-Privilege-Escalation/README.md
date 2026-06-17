@@ -134,6 +134,8 @@ This is not a matter of user intent or signature scope, but a **violation of the
 - Validator persists after expiry
 - Funds drained after expiry without session usage
 
+![PoC Test Output](./assets/poc-test-output.png)
+
 This demonstrates:
 - ✅ Session expiry is enforced
 - ✅ Privilege escalation persists beyond expiry
