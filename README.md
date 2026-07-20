@@ -33,3 +33,11 @@ Each entry in this repository follows a consistent structure:
 ---
 
 *All technical analysis, vulnerability discovery, and proof-of-concept development were performed and validated manually by the author. AI tools were used solely to assist with language clarity and report structuring.*
+
+## Additional Case Studies
+
+- [LayerZero EndpointV2 Grace-Period Verification State Replacement](findings/layerzero-grace-overwrite)
+  - Area: Cross-chain protocol security
+  - Evidence: Foundry mainnet-fork PoC
+  - Result: 13 passing fork-production tests
+  - Primary evidence: 3 focused tests
