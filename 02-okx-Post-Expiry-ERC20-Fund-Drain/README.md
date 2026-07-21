@@ -353,8 +353,6 @@ A video demonstration is available showing:
 
 The demonstration confirms that session expiry and revocation function correctly, yet the financial authority created during the session persists.
 
-AI tools were used to assist with language clarity and report structuring. The technical procedures have been manually verified by me.
-
 ## Impact Summary
 
 An attacker can create unlimited ERC20 spending authority during a time-bounded session and later drain the wallet after the session has expired or been revoked.
