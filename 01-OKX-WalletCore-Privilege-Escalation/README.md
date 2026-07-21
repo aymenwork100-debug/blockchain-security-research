@@ -256,4 +256,3 @@ A video demonstration is available showing:
 - Validator persistence after expiry
 - Post-expiry fund theft without session usage
 
-*AI tools were used to assist with language clarity and report structuring. All technical analysis, vulnerability discovery, and proof-of-concept development were performed and validated manually by the reporter.*
