@@ -192,11 +192,3 @@ The primary research focus is on vulnerabilities that can lead to:
 - Security-critical cryptographic protocol failures
 
 ---
-
-## Disclaimer
-
-This repository is maintained for defensive security research, technical education, and professional portfolio purposes.
-
-The presence of a report in this repository does not imply that a vendor accepted the reported severity or classification unless explicitly stated in the corresponding finding.
-
-No private keys, confidential vendor information, or non-public production credentials are included.
